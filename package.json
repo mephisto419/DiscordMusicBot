@@ -1,0 +1,22 @@
+{
+  "name": "goku-v1",
+  "version": "1.0.0",
+  "description": "Music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "g!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "MEPHISTO#2606",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "opusscript": "0.0.7",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^4.4.5",
+    "ytsearcher": "^1.2.3"
+  }
+}
